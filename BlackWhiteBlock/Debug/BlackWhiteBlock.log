@@ -1,0 +1,13 @@
+﻿  源.cpp
+f:\visual studio\vc\include\gl\gl.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(86): warning C4305: “=”: 从“double”到“GLfloat”截断
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(88): warning C4305: “=”: 从“double”到“GLfloat”截断
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(209): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(210): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(257): warning C4305: “参数”: 从“double”到“GLclampf”截断
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(271): warning C4305: “-=”: 从“double”到“GLfloat”截断
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(284): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(285): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\code\blackwhiteblock\blackwhiteblock\源.cpp(522): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+  BlackWhiteBlock.vcxproj -> F:\code\BlackWhiteBlock\Debug\BlackWhiteBlock.exe
+  BlackWhiteBlock.vcxproj -> F:\code\BlackWhiteBlock\Debug\BlackWhiteBlock.pdb (Full PDB)
